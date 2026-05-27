@@ -1,7 +1,17 @@
 body{
-
 background-color: rgb(107, 6, 6);
 color: rgb(255, 255, 255);
 
 
-}		
+}	
+
+
+.capa{
+    color: darkgrey;
+font-size: 20px;
+}
+
+#heroi{
+display: flex;
+padding-left: 200px;
+}
