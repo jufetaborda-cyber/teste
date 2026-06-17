@@ -15,3 +15,18 @@ font-size: 20px;
 display: flex;
 padding-left: 200px;
 }
+
+.videos{
+
+    display: flex;
+    overflow: auto;
+    gap: 10px;
+}
+.videos img{
+    opacity: 0.5;
+    height: 200px;
+}
+.videos img:hover{
+    opacity: 1.0;
+    border: 3px solid #b96c06;
+}
